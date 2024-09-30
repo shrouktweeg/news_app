@@ -1,0 +1,16 @@
+{
+  "news_app":"تطبيق الأخبار",
+  "pick_your_category_of_interest": "اختر الفئة \nالتي تهمك",
+  "sports": "الرياضة",
+  "politics": "سياسة",
+  "health": "صحة",
+  "business": "عمل",
+  "environment": "بيئة",
+  "science": "علوم",
+  "categories": "فئات",
+  "settings": "إعدادات",
+  "language": "لغة",
+  "search_title": "عنوان البحث",
+  "error_Fetching_data": "حدث خطأ أثناء جلب البيانات",
+  "data_Not_Found": "لا توجد بيانات "
+}

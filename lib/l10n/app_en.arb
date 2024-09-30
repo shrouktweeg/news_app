@@ -1,0 +1,16 @@
+{
+  "news_app":"News App",
+  "pick_your_category_of_interest": "Pick your category \nof interest",
+  "sports": "Sports",
+  "politics": "Politics",
+  "health": "Health",
+  "business": "Business",
+  "environment": "Environment",
+  "science": "Science",
+  "categories": "Categories",
+  "settings": "Settings",
+  "language": "Language",
+  "search_title": "Search Title",
+  "error_Fetching_data": "Error Fetching data",
+  "data_Not_Found": "Data Not Found"
+}
